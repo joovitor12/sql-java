@@ -1,2 +1,2 @@
 # sql-java
- Projeto utilizando o JDBC para acessar um banco de dados
+ Acesso a dados utilizando o JDBC 
