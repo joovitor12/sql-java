@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto:</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Como executar:</a>
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>
 </p>
 
 <br>
@@ -17,11 +17,11 @@ Esse conjunto de exemplos foi desenvolvido com as seguintes tecnologias:
 - [MySQL](https://www.mysql.com/)
 - [JDBC](https://dev.mysql.com/downloads/connector/j/?os=26)
 
-## Projeto:
+## Projeto
 
 Conjunto de exemplos utilizando o JDBC para acessar um banco de dados.
 
-## Como executar:
+## Como executar
 
 - Clone o repositório
 - Instale o [Java](https://www.java.com/en/)
